@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Omosetan Omorele",
+        "is_married": true,
+        "age": 45
+    },
+    {
+        "name": "John Doe",
+        "is_married": false,
+        "age": 15
+    }
+]
